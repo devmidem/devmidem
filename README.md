@@ -27,15 +27,6 @@ Software Engineer focused on back-end development, building robust systems, scal
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=devmidem&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmidem&layout=compact&hide_border=true&cache_seconds=1800" />
-</p>
-
----
-
 <p align="center">
   <sub>Built with ☕ by Murillo Isidoro</sub>
 </p>
